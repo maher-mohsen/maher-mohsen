@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maher-mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maher-mohsen" height="30" width="40" /></a>
-<a href="https://fb.com/mezw mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezw mohsen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maher-mohsen-6a5a54102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maher-mohsen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mezw.mohsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezwmohsen" height="30" width="40" /></a>
 <a href="https://instagram.com/mezwmohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezwmohsen" height="30" width="40" /></a>
-<a href="https://medium.com/maher-mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="maher-mohsen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maher-mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maher-mohsen" height="30" width="40" /></a>
+<a href="https://medium.com/@mezwmohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="maher-mohsen" height="30" width="40" /></a>
+<a href="https://leetcode.com/mezwmohsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maher-mohsen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
