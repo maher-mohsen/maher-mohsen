@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maher mohsen</h1>
-<h3 align="center">A passionate ai-Engineer/h3>
+<h3 align="center">A passionate ai-Engineer</h3>
 <img align="center"alt="Coding" width="400" src="https://imgur.com/t/ai/xgh1pxr](https://i.imgur.com/g3xEJsV.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maher-mohsen&label=Profile%20views&color=0e75b6&style=flat" alt="maher-mohsen" /> </p>
 
