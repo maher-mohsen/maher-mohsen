@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher mohsen</h1>
 <h3 align="center">A passionate ai-Engineer</h3>
 
-<img align="center"alt="Coding" width="400" src="https://user-images.githubusercontent.com/73169639/204798335-7f458ae1-26e8-49c4-a03c-d542e524aec8.gif">
+![g3xEJsV](https://user-images.githubusercontent.com/73169639/204798859-ff3d7c65-2e17-450f-843c-7cda407516bf.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maher-mohsen&label=Profile%20views&color=0e75b6&style=flat" alt="maher-mohsen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maher-mohsen" alt="maher-mohsen" /></a> </p>
