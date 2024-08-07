@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maher mohsen</h1>
-<h3 align="center">A passionate ai-Engineer</h3>
+<h3 align="center">A passionate Ai-Engineer</h3>
 
 <!-- ![g3xEJsV](https://user-images.githubusercontent.com/73169639/204799190-7e3ca024-06f3-4b28-9929-278d6108c24e.mp4)
  -->
