@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Maher+Mohsen;Machine+Learning+Engineer;LLM+Trainer+%7C+Computer+Vision+Engineer;I+Build+Intelligent+Systems+From+Scratch" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Mezw;Machine+Learning+Engineer;LLM+Trainer+%7C+Computer+Vision+Engineer;I+Build+Intelligent+Systems+From+Scratch" />
 
 </div>
 
@@ -71,17 +71,6 @@ def build_ml_system():
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-</p>
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maher-mohsen&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maher-mohsen&theme=tokyonight"/>
 </p>
 
 ------------------------------------------------------------------------
